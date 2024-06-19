@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
+<center><h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravvys&show_icons=true&locale=en&layout=compact" alt="ravvys" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&" alt="ravvys" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&" alt="ravvys" /></p></center>
