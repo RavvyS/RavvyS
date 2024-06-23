@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://stockcake.com/i/astronaut-conquers-peak_408737_438504">
+<img src="https://images.hdqwalls.com/download/8-bit-city-m2-2560x1080.jpg">
 </p>
 
 <center><h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+<h3 align="center">I'm a full-stack web developer</h3>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
