@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://stockcake.com/i/futuristic-urban-landscape_773457_1007417" />
+</p>
+
 <center><h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
