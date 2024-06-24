@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.hdqwalls.com/download/interstellar-astronaut-4k-yr-1600x1200.jpg">
+<img src="https://images.hdqwalls.com/download/interstellar-astronaut-4k-yr-2560x1080.jpg">
 </p>
 
 <center><h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
