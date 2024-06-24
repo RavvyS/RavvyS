@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravvys&show_icons=true&locale=en&layout=compact&bg_color=2196F3" alt="ravvys" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravvys&show_icons=true&locale=en&layout=compact&bg_color=0D47A1" alt="ravvys" />
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&background=2196F3" alt="ravvys" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&background=0D47A1" alt="ravvys" />
 </p>
 
 
