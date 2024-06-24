@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://stockcake.com/i/astronaut-conquers-peak_408737_438504.jpg">
+<img src="https://images.hdqwalls.com/download/interstellar-astronaut-4k-yr-1600x1200.jpg">
 </p>
 
 <center><h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
