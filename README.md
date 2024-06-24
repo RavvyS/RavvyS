@@ -21,9 +21,13 @@
 <img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ravindu_sandun/" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravvys&show_icons=true&locale=en&layout=compact&bg_color=d3d3d3" alt="ravvys" />
+</p>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravvys&show_icons=true&color=0&locale=en&layout=compact" alt="ravvys" /></p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&background=d3d3d3" alt="ravvys" />
+</p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&" alt="ravvys" /></p></center>
 
 [![](https://visitcount.itsvg.in/api?id=RavvyS&icon=0&color=0)](https://visitcount.itsvg.in)
