@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **ravindusdc@gmail.com**
+<p align="center"> - 📫 How to reach me **ravindusdc@gmail.com**</p>
 
 <h3 align="">Connect with me:</h3>
 <p align="" >
