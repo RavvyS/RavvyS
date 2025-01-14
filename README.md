@@ -3,24 +3,19 @@
 </p>
 
 
-<p align="center">
-👋 Hi there! I’m Ravindu Sandun!!
-</p>
+<h1 align="center">Hi 👋, I'm Ravindu S Hemachandra</h1>
+<h3 align="center">Let’s make that a reality!</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravvys&label=Profile%20views&color=0e75b6&style=flat" alt="ravvys" /> </p>
+
 
 <h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavvyS&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavvyS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 
-[![](https://visitcount.itsvg.in/api?id=RavvyS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&background=90CAF9" alt="ravvys" />
+<a href="https://linkedin.com/in/ravindu-s-hemachandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-s-hemachandra" height="30" width="40" /></a>
+<a href="https://fb.com/ravindu.sandun.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.sandun.00" height="30" width="40" /></a>
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=RavvyS&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&" alt="ravvys" /></p>
