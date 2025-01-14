@@ -12,9 +12,11 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 
 
-
-
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&" alt="ravvys" /></p>
+<div style="background-color: #1877F2; color: #FFFFFF; padding: 20px; text-align: center; border-radius: 8px;">
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvys&" alt="ravvys" />
+  </p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
